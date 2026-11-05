@@ -1,0 +1,33 @@
+# Qt Creator and qmake user-specific files
+*.pro.user
+*.pro.user.*
+
+# qmake build artifacts
+Makefile
+Makefile.*
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+
+# Qt generated files
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+.qmake.stash
+
+# Common build directories
+build/
+debug/
+release/
+out/
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

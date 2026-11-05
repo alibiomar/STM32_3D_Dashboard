@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/DashboardWindow.qml</file>
+        <file>qml/components/Drone3D.qml</file>
+        <file>qml/components/Horizon.qml</file>
+        <file>qml/components/Compass.qml</file>
+        <file>qml/components/Gauges.qml</file>
+        <file>qml/components/WasdController.qml</file>
+        <file>qml/assets/fonts/digital-7.ttf</file>
+        <file>qml/assets/fonts/Roboto-Regular.ttf</file>
+        <file>qml/assets/fonts/Roboto-Light.ttf</file>
+        <file>qml/assets/icons/logo.png</file>
+        <file>qml/assets/icons/menu.svg</file>
+        <file>icons/drone.png</file>
+        <file>qml/components/textures/drone_simulator_text.png</file>
+        <file>qml/components/textures/pfa2_text.png</file>
+        <file>qml/components/textures/grid_texture.jpg</file>
+
+    </qresource>
+</RCC>
